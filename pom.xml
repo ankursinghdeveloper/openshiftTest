@@ -24,6 +24,6 @@
 	</dependencies>
 	<build>
 		<!-- <finalName>testingOpenshift</finalName> Ankur-->
-		<finalName>ROOT</finalName>
+		<finalName>testingOpenshift</finalName>
 	</build>
 </project>
